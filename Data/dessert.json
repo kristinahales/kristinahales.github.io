@@ -2,5 +2,13 @@
     {
         "id": 1,
         "name": "Homemade Ice Cream"
+    },
+    {
+        "id": 2,
+        "name": "Strawberry Lush Cake"
+    },
+    {
+        "id": 3,
+        "name": "Cake"
     }
 ]
