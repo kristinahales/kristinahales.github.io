@@ -2,16 +2,22 @@
     {
         "id": 1,
         "name": "Homemade Ice Cream",
-        "image": "https://images.unsplash.com/photo-1588195539297-f0b4efdb5472?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2216&q=80"
+        "image": "https://images.unsplash.com/photo-1588195539297-f0b4efdb5472?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2216&q=80",
+        "ingredients": ["1/2 C. Milk", "1 C. Heavy Whipping Cream", "1/2 Tbsp. Vanilla", "3/8 C. Sugar"],
+        "directions": ["1. Mix and refrigerate for 1-2 hours.", "2. Put chilled mixture in ice cream maker for 15-25 minutes", "3. Add mix-ins of choosing."]
     },
     {
         "id": 2,
-        "name": "Strawberry Lush Cake",
-        "image": "https://images.unsplash.com/photo-1588195539297-f0b4efdb5472?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2216&q=80"
+        "name": "Chewy Chocolate Chip Cookies",
+        "image": "https://images.unsplash.com/photo-1568051243858-533a607809a5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "ingredients": ["2 C. plus 2 Tbsp. Flour", "1/2 Tsp. Baking Soda", "1/2 Tsp. Salt", "12 Tbsp. Melted Butter", "1 C. Brown Sugar", "1/2 C. Sugar", "1 Large Egg plus 1 Egg Yolk", "2 Tsp. Vanilla", "1 1/2 C. Semi-Sweet Chocolate Chips"],
+        "directions": ["1. Heat oven to 350 degrees.", "2. Melt butter until warm, not hot.", "3. Mix flour, salt, baking soda together in medium bowl; set aside.", "4. Beat butters & sugars until thoroughly blended. Mix in egg, yold, and vanilla. Add dry ingredients; mix well until combined.", "5. Stir in chocolate chips. Scoop into balls and bake for 9-12 minutes."]
     },
     {
         "id": 3,
-        "name": "Cake",
-        "image": "https://images.unsplash.com/photo-1588195539297-f0b4efdb5472?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2216&q=80"
+        "name": "The Best Buttercream Frosting",
+        "image": "https://images.unsplash.com/photo-1601045518565-2f15fff0b42b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+        "ingredients": ["4 C. Powdered Sugar", "1 C. Butter (softened)", "2-3 Tsp. Vanilla", "1-2 Tbsp. Milk"],
+        "directions": ["1. Add softened butter and vanilla to the mixing bowl and mix until completely combinded.","2. Add powdered sugar ad beat on low until it is incorporated. Then move mixer up to medium high speed. Scrape sides and bottom of bowl often. When completely mixed the frosting may appear dry.", "3. Add milk a little bit at a time until frosting is proper consistency."]
     }
 ]
