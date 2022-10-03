@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Homemade Ice Cream",
         "image": "https://images.unsplash.com/photo-1588195539297-f0b4efdb5472?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2216&q=80",
-        "ingredients": [["1/2 C. Milk"], ["1 C. Heavy Whipping Cream"], ["1/2 Tbsp. Vanilla"], ["3/8 C. Sugar"]],
+        "ingredients": ["1/2 C. Milk", "1 C. Heavy Whipping Cream", "1/2 Tbsp. Vanilla", "3/8 C. Sugar"],
         "directions": ["1. Mix and refrigerate for 1-2 hours.", "2. Put chilled mixture in ice cream maker for 15-25 minutes", "3. Add mix-ins of choosing."]
     },
     {
@@ -16,8 +16,26 @@
     {
         "id": 3,
         "name": "The Best Buttercream Frosting",
-        "image": "https://images.unsplash.com/photo-1601045518565-2f15fff0b42b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+        "image": "https://images.unsplash.com/photo-1519869491916-8ca6f615d6bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
         "ingredients": ["4 C. Powdered Sugar", "1 C. Butter (softened)", "2-3 Tsp. Vanilla", "1-2 Tbsp. Milk"],
         "directions": ["1. Add softened butter and vanilla to the mixing bowl and mix until completely combinded.","2. Add powdered sugar ad beat on low until it is incorporated. Then move mixer up to medium high speed. Scrape sides and bottom of bowl often. When completely mixed the frosting may appear dry.", "3. Add milk a little bit at a time until frosting is proper consistency."]
+    },
+    {
+        "id": 4,
+        "name": "French Crepes",
+        "image": "https://images.unsplash.com/photo-1587314168485-3236d6710814?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1378&q=80",
+        "ingredients": ["4 Eggs", "1 1/3 C. Milk", "1 C. Flour", "1 Tsp. Vanilla", "1-2 Tbsp. Oil"],
+        "directions": ["1. Mix all ingredients.","2. Cook for about 1 minute on each side in crepe pan.", "3. Add desired toppings."]
+    },
+    {
+        "id": 4,
+        "name": "Homemade Donuts",
+        "image": "  https://images.unsplash.com/photo-1551024601-bec78aea704b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2564&q=80",
+        "ingredients": ["1 Can Biscuits (10 count)", "Oil For Frying", "1 C. Sugar"],
+        "directions": ["1. Mix cinnamon and sugar in a bowl. Set aside for later.","2. Use small round cookie cutter to make holes in center of biscuit dough.", "3. Pour a little less than 1/2 inch of oil into cooking skillet.", "5. Heat oil for 5 minutes. Fry donuts in batches of 2-3 at a time. Each side will only take 1 minute before you need to turn them over.", "6. Place on paper towels when done. After cooling, dip each side of the donut in your cinnamon-suage mixture."]
     }
+  
+
+
+    
 ]
