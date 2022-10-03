@@ -4,7 +4,7 @@
         "name": "Chicken Tacos",
         "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=780&q=80",
         "ingredients": ["2 Chicken Breasts", "10 Flour Tortillas"],
-        "directions": ["1. Grill chicken breasts."]
+        "directions": ["1. Grill chicken breasts.", "2. Shred chicken."]
     },
     {
         "id": 2,
@@ -17,22 +17,22 @@
         "id": 3,
         "name": "Carmelized Onion Burger",
         "image": "https://images.unsplash.com/photo-1596649299486-4cdea56fd59d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-        "ingredients": [""],
-        "directions": ["1. "]
+        "ingredients": ["8 Beef Patties", "Hamburger Buns (8 pack)","1/2 Medium Chopped Onion"],
+        "directions": ["1. Grill beef patties.", "2. Carmelize onions."]
     },
     {
         "id": 4,
         "name": "Spaghetti",
         "image": "https://images.unsplash.com/photo-1598866594230-a7c12756260f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1308&q=80",
-        "ingredients": [""],
-        "directions": ["1. "]
+        "ingredients": ["1 lb. Ground Beef", "Salt & Pepper", "1 Medium Onion", "15 oz. Tomato Sauce", "6 oz. Tomato Paste", "1/2 Tsp. Italian Seasonings", "1 Tbsp. Dried Parsley Flakes", "1 Tsp. Garlic Powder", "1 Tbsp. Worcestershire sauce", "1 Tbsp. Sugar", "1 C. Water", "Spaghetti Noodles , for serving" ],
+        "directions": ["1. Season ground beef with salt and pepper.", "2. In a large skillet, add the beef and chopped onion and brown.  Drain excess grease.", "3. Add tomato sauce, tomato paste, Italian seasoning, parsley, garlic powder, crushed red pepper, worcestershire, and sugar to the skillet.", "4. Stir well to combine and bring to a boil. Add water and stir well.", "5. Reduce heat and simmer for 30 minutes. Add chopped basil before serving, if desired."]
     },
     {
         "id": 5,
         "name": "Cheddar Broccoli Soup",
         "image": "https://images.unsplash.com/photo-1578859318509-62790b079366?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=694&q=80",
-        "ingredients": [""],
-        "directions": ["1. "]
+        "ingredients": ["1/4 C. Melted Butter", "1/2 Medium Chopped Onion", "1/4 C. Flour", "2 C. Half & Half Cream", "2 C. Chicken Stock or Broth", "1/2 lb. Broccoli", "8 oz. Cheddar Cheese", "Salt & Pepper"],
+        "directions": ["1. Melt the 1/4 cup butter and sautee the onions in it until soft. Sprinkle the flour over the mixture. Cook and stir over medium heat for 1-2 minutes.", "2. Whisk in the half & half and chicken stock.", "3. Add the broccoli and carrots. Cook over low heat for 20-25 minutes or until the broccoli and carrots are tender.", "4. Add salt and pepper. You can leave the soup chunky or blend about 1 cup of the soup and stir it in for a smoother soup (that's what I do). Return to low heat and add the cheese. If your heat is too high your soup can get grainy. Stir in the nutmeg if desired.", "5. Serve with crusty bread."]
     }
   
 
