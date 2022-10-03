@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Homemade Ice Cream",
-        "image": "https://images.unsplash.com/photo-1588195539297-f0b4efdb5472?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2216&q=80",
+        "image": "https://images.unsplash.com/photo-1629385744299-74b9cf013f52?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
         "ingredients": ["1/2 C. Milk", "1 C. Heavy Whipping Cream", "1/2 Tbsp. Vanilla", "3/8 C. Sugar"],
         "directions": ["1. Mix and refrigerate for 1-2 hours.", "2. Put chilled mixture in ice cream maker for 15-25 minutes", "3. Add mix-ins of choosing."]
     },

@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "name": "Chicken Tacos",
+        "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=780&q=80",
+        "ingredients": ["2 Chicken Breasts", "10 Flour Tortillas"],
+        "directions": ["1. Grill chicken breasts."]
+    },
+    {
+        "id": 2,
+        "name": "Tomato Basil Soup",
+        "image": "https://images.unsplash.com/photo-1620791144170-8a443bf37a33?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+        "ingredients": ["4 Tbsp. Unsalted Butter", "1/2 Large Onion (cut into large wedges)", "1 (28-ounce can) Tomatoes (whole peeled or crushed)", "1 ½ C. Water, Low Sodium Vegetable Stock, or Chicken Stock", "1/2 Tsp. Salt"],
+        "directions": ["1. Melt butter over medium heat in a Dutch oven or large saucepan.", "2. Add onion wedges, water, can of tomatoes with their juices, and 1/2 teaspoon of salt. Bring to a simmer. Cook, uncovered, for about 40 minutes. Stir occasionally and add additional salt as needed.", "3. Blend the soup, and then season to taste. The soup doesn’t need to be ultra-smooth, some texture is a nice touch. An immersion blender does make quick work of this, or you can use a blender. If you use a regular blender, it is best to blend in batches and not fill the blender as much as you usually would since the soup is so hot. We like to remove the center insert of the lid and cover it with a kitchen towel while blending — this helps to release some of the steam and prevents the blender lid from popping off (which can be a big, hot mess)."]
+    },
+    {
+        "id": 3,
+        "name": "Carmelized Onion Burger",
+        "image": "https://images.unsplash.com/photo-1596649299486-4cdea56fd59d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "ingredients": [""],
+        "directions": ["1. "]
+    },
+    {
+        "id": 4,
+        "name": "Spaghetti",
+        "image": "https://images.unsplash.com/photo-1598866594230-a7c12756260f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1308&q=80",
+        "ingredients": [""],
+        "directions": ["1. "]
+    },
+    {
+        "id": 5,
+        "name": "Cheddar Broccoli Soup",
+        "image": "https://images.unsplash.com/photo-1578859318509-62790b079366?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=694&q=80",
+        "ingredients": [""],
+        "directions": ["1. "]
+    }
+  
+
+
+    
+]
