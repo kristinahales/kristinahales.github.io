@@ -3,8 +3,8 @@
         "id": 1,
         "name": "Chicken Tacos",
         "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=780&q=80",
-        "ingredients": ["2 Chicken Breasts", "10 Flour Tortillas"],
-        "directions": ["1. Grill chicken breasts.", "2. Shred chicken."]
+        "ingredients": ["1 1/2 Chicken Breasts", "2 Tsp. Vegetable Oil", "1/2 Yellow Onion (minced)", "2 Cloves Garlic (minced)", "1 Tsp Ground Cumin", "1 Tsp. Salt", "1/2 C. Salsa", "1 Tsp. Chili Powder", "1 Tsp. Dried Oregano"],
+        "directions": ["1. Poach chicken. Place chicken in a saucepan, and cover with water. Bring to a boil, then reduce the heat to simmer for 10-12 minutes or until the internal temperature of the chicken reaches 165°F/74°C. I use the kitchen thermometer to check as overcooked chicken will be dry.", "2. Transfer the chicken to a cutting board or bowl, and shred it with 2 forks.", "3. In a skillet, heat oil and sauté the onion until it’s soft and translucent (3 minutes).", "4. Add the garlic, and sauté for 30 seconds. Add cumin, chilli powder, and salt. Cook for 1 more minute.", "5. Add salsa, and just mix it in (if necessary, you can add a splash of water) and let it warm up.", "6. Add the chicken, and mix it in with the sauce. Simmer for 2-3 minutes.", "7. Serve in warmed up tortillas or taco shells with your favorite toppings."]
     },
     {
         "id": 2,
@@ -16,7 +16,7 @@
     {
         "id": 3,
         "name": "Carmelized Onion Burger",
-        "image": "https://images.unsplash.com/photo-1596649299486-4cdea56fd59d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "image": "https://images.unsplash.com/photo-1561758033-d89a9ad46330?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
         "ingredients": ["8 Beef Patties", "Hamburger Buns (8 pack)","1/2 Medium Chopped Onion"],
         "directions": ["1. Grill beef patties.", "2. Carmelize onions."]
     },
@@ -30,12 +30,12 @@
     {
         "id": 5,
         "name": "Cheddar Broccoli Soup",
-        "image": "https://images.unsplash.com/photo-1578859318509-62790b079366?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=694&q=80",
+        "image": "https://images.unsplash.com/photo-1585251174338-f0c60c67d723?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
         "ingredients": ["1/4 C. Melted Butter", "1/2 Medium Chopped Onion", "1/4 C. Flour", "2 C. Half & Half Cream", "2 C. Chicken Stock or Broth", "1/2 lb. Broccoli", "8 oz. Cheddar Cheese", "Salt & Pepper"],
         "directions": ["1. Melt the 1/4 cup butter and sautee the onions in it until soft. Sprinkle the flour over the mixture. Cook and stir over medium heat for 1-2 minutes.", "2. Whisk in the half & half and chicken stock.", "3. Add the broccoli and carrots. Cook over low heat for 20-25 minutes or until the broccoli and carrots are tender.", "4. Add salt and pepper. You can leave the soup chunky or blend about 1 cup of the soup and stir it in for a smoother soup (that's what I do). Return to low heat and add the cheese. If your heat is too high your soup can get grainy. Stir in the nutmeg if desired.", "5. Serve with crusty bread."]
     }
+    
   
 
-
-    
+   
 ]

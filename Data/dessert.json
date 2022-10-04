@@ -30,11 +30,19 @@
     {
         "id": 5,
         "name": "Homemade Donuts",
-        "image": "  https://images.unsplash.com/photo-1551024601-bec78aea704b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2564&q=80",
+        "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2564&q=80",
         "ingredients": ["1 Can Biscuits (10 count)", "Oil For Frying", "1 C. Sugar"],
         "directions": ["1. Mix cinnamon and sugar in a bowl. Set aside for later.","2. Use small round cookie cutter to make holes in center of biscuit dough.", "3. Pour a little less than 1/2 inch of oil into cooking skillet.", "5. Heat oil for 5 minutes. Fry donuts in batches of 2-3 at a time. Each side will only take 1 minute before you need to turn them over.", "6. Place on paper towels when done. After cooling, dip each side of the donut in your cinnamon-suage mixture."]
+    },
+    {
+        "id": 6,
+        "name": "Brownies",
+        "image": " https://images.unsplash.com/photo-1606884285898-277317a7bf12?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80",
+        "ingredients": ["1 1/2 C. Granulated Sugar", "3/4 C. Flour", "2/3 C. Cocoa Powder (sifted if lumpy)", "1/2 C. Powdered Sugar (sifted if lumpy)", "1/2 C. Chocolate Chips", "3/4 Tsp. Sea Salt", "1/2 C. Oil", "2 Large Eggs", "2 Tbsp. Water", "1/2 Tsp. Vanilla"],
+        "directions": ["1. Preheat the oven to 325°F. Lightly spray an 8x8 baking dish (not a 9x9 dish or your brownies will overcook) with cooking spray and line it with parchment paper. Spray the parchment paper.", "2. In a medium bowl, combine the sugar, flour, cocoa powder, powdered sugar, chocolate chips, and salt.", "3. In a large bowl, whisk together the eggs, olive oil, water, and vanilla.", "4. Sprinkle the dry mix over the wet mix and stir until just combined.", "5.Pour the batter into the prepared pan (it'll be thick - that's ok) and use a spatula to smooth the top. Bake for 40 to 48 minutes, or until a toothpick comes out with only a few crumbs attached (note: it's better to pull the brownies out early than to leave them in too long). Cool completely before slicing.*** Store in an airtight container at room temperature for up to 3 days. These also freeze well!"]
     }
-  
+   
+    
 
 
     
